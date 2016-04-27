@@ -1,0 +1,6 @@
+P = codex Parisinus
+S = codex Sessorianus
+A = codex Parisinus 95559 s. VIIJVIII (I. epistula)
+
+ 
+

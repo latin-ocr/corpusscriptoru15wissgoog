@@ -1,0 +1,10 @@
+S = Codex Sessorianus s. VI
+P = Codex Par. 9550 s. VII
+
+G = Codex Sangallensis 230 s. IX
+M = Codex Par. 12236 s. lx
+
+N = Codex Par. 2769 s. VII-VIII'
+
+ 
+
